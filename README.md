@@ -113,7 +113,7 @@ health.Modifiers.Add(Modifier.Plus(5f, "+5 health"));
 Console.WriteLine($"Health is {health.Value}."); // Output: Health is 115.
 ```
 
-For [more examples](#other-examples), see below.
+For [more examples](#-other-examples), see below.
 
 ## Attribute
 
