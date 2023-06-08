@@ -7,6 +7,23 @@
 
     <LangVersion>preview</LangVersion>
     <EnablePreviewFeatures>true</EnablePreviewFeatures>
+
+    <Authors>Nikita Yudin</Authors>
+    <Product>StatMaster</Product>
+    <Description>StatMaster is a flexible attribute system for game characters, providing modifiable and customizable character stats.</Description>
+    <Copyright>Copyright © Nikita Yudin 2023</Copyright>
+    <Summary>StatMaster is a flexible attribute system for game characters, providing modifiable and customizable character stats.</Summary>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Title>StatMaster</Title>
+    <PackageId>StatMaster</PackageId>
+    <PackageTags>gamedev</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIconUrl>https://user-images.githubusercontent.com/36636599/244048896-5183a20f-dcad-48cd-996b-883abe22022b.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/nblackninja/stat-master</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl> 
+    <RootNamespace>StatMaster</RootNamespace>
+    <AssemblyName>StatMaster</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'net6.0'">
