@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/nblackninja/stat-master/assets/36636599/5183a20f-dcad-48cd-996b-883abe22022b" alt="StatMaster logo" width="150">
+   <img src="https://github.com/nblackninja/stat-master/assets/36636599/bf8a7415-d61f-4d10-aba2-b500b1d82715" alt="StatMaster logo" width="150">
 </p>
 
 <h3 align="center">StatMaster</h3>
