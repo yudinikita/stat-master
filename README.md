@@ -113,7 +113,7 @@ health.Modifiers.Add(Modifier.Plus(5f, "+5 health"));
 Console.WriteLine($"Health is {health.Value}."); // Output: Health is 115.
 ```
 
-For [more examples](#other-examples), see below.
+For [more examples](#-other-examples), see below.
 
 ## Attribute
 
@@ -252,7 +252,7 @@ health.PropertyChanged += (_, _) => Console.WriteLine($"Health is {health.Value}
 // Output: Health is 100/100.
 health.Value -= 10f;
 // Output: Health is 90/100.
-maxHealth.modifiers.Add(Modifier.Plus(20f, "+20 level gain"));
+maxHealth.Modifiers.Add(Modifier.Plus(20f, "+20 level gain"));
 // Output: Health is 90/120.
 ```
 
