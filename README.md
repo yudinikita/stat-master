@@ -440,6 +440,6 @@ The source code of this project is licensed under the MIT license, which can be 
 
 ---
 
-> nikitayudin782@gmail.com &nbsp;&middot;&nbsp;
-> GitHub [@nblackninja](https://github.com/с) &nbsp;&middot;&nbsp;
-> Telegram [@yudinikita](https://t.me/yudinikita)
+> Site [yudinikita.ru](https://yudinikita.ru) &nbsp;&middot;&nbsp;
+> Email <mail@yudinikita.ru> &nbsp;&middot;&nbsp;
+> GitHub [@yudinikita](https://github.com/yudinikita)
